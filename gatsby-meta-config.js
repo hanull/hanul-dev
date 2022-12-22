@@ -1,8 +1,8 @@
 module.exports = {
-  title: `hanul-dev`,
+  title: `slow-dev`,
   description: `Blog posted about back-end, problem-solving, essay`,
-  author: `이한울(hanull)`,
-  introduction: `새로운 도전과 경험을 즐기는 백엔드 개발자 이한울입니다. `,
+  author: `슬로`,
+  introduction: `느리지만 꾸준하게 나아갑니다.`,
   siteUrl: `https://hanul-dev.netlify.app/`, // Your blog site url
   social: {
     twitter: ``, // Your Twitter account
