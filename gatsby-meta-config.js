@@ -1,16 +1,13 @@
 module.exports = {
-  title: `slow-dev`,
+  title: `슬로's Dev Log`,
   description: `Blog posted about back-end, problem-solving, essay`,
   author: `슬로`,
   introduction: `느리지만 꾸준하게 나아갑니다.`,
   siteUrl: `https://hanul-dev.netlify.app/`, // Your blog site url
   social: {
-    twitter: ``, // Your Twitter account
     github: `hanull`, // Your GitHub account
-    medium: ``, // Your Medium account
-    facebook: ``, // Your Facebook account
-    linkedin: ``, // Your LinkedIn account
-    instagram: ``, // Your Instagram account
+    linkedin: `hanul-lee-a29aa125a`, // Your LinkedIn account
+    instagram: `haaaanull`, // Your Instagram account
   },
   icon: `content/assets/felog.png`, // Add your favicon
   keywords: [`blog`, `java`, `backend`, `spring boot`, `development`],
